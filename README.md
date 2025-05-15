@@ -73,3 +73,28 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 4. Select the branch you want to deploy, then click Deploy Branch.
 5. The deployment process should happen smoothly if all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
 6. If the slug size is too large then add large files not required for the app to the .slugignore file.
+
+# My  Project Title  here
+
+Project XYZ is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+
+
+# Dataset Content
+
+- First Item Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+
+
+# Business Requirements
+
+- First Item Describe your business requirements
+
+# Hypothesis and how to validate?
+
+- First Item List here your project hypothesis(es) and how you envision validating it (them)
+
+# Project Plan
+
+- First Item  Outline the high-level steps taken for the analysis
+- Second Item How was the data managed throughout the collection, processing, analysis and interpretation steps?
+- Third Item Why did you choose the research methodologies you used?
+
